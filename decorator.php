@@ -8,7 +8,7 @@ interface Component
     public function operation();
 }
 
-
+ 
 
 // =====
 class ConComponent implements Component
